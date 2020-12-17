@@ -1,0 +1,4 @@
+github.com/akavel/rsrc v0.10.1 h1:hCCPImjmFKVNGpeLZyTDRHEFC283DzyTXTo0cO0Rq9o=
+github.com/akavel/rsrc v0.10.1/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
+github.com/cppdebug/windev v0.0.0-20191224062639-6e22c65efebd h1:FcSAh/mMudJ/eM+3rUU5I5wDnhOT73Y3drNGfDxY5lU=
+github.com/cppdebug/windev v0.0.0-20191224062639-6e22c65efebd/go.mod h1:Y8cHDtdtXWrvh1CYbtxhTulJDGxtTFPv5J1xeUK0LPE=
